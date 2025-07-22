@@ -1,0 +1,13 @@
+html{
+    background-image: url("./assets/image/Screenshot\ 2025-07-23\ at\ 00.37.08.png");
+    color: white;
+    text-align: center;
+}
+div{
+   width: 50%; 
+   margin-left: 25%;
+}
+video{
+    width: 100%;;
+
+}
